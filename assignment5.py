@@ -1,0 +1,2 @@
+text = "Kenkey is a Ghanaian dish made from fermented corn dough, typically served with soup, stew, or sauce. It is a staple food in Ghana and is enjoyed by many for its unique taste and texture."
+print(text.swapcase())
